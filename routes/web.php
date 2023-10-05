@@ -3,6 +3,7 @@
 use Nicelizhi\Taobao\Http\Controllers\TaobaoController;
 use Nicelizhi\Taobao\Http\Controllers\TaobaoOrdersController;
 use Nicelizhi\Taobao\Http\Controllers\TaobaoProductsController;
+use Nicelizhi\Taobao\Http\Controllers\TaobaoRefundsController;
 
 Route::get('taobao', TaobaoController::class.'@index');
 Route::resource('taobao/orders', TaobaoOrdersController::class); // 订单
