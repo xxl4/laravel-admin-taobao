@@ -1,6 +1,6 @@
 <?php
 
-namespace Niceliizhi\Taobao;
+namespace Nicelizhi\Taobao;
 
 use Illuminate\Support\ServiceProvider;
 

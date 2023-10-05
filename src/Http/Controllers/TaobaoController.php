@@ -1,6 +1,6 @@
 <?php
 
-namespace Niceliizhi\Taobao\Http\Controllers;
+namespace Nicelizhi\Taobao\Http\Controllers;
 
 use Nicelizhi\Admin\Layout\Content;
 use Illuminate\Routing\Controller;

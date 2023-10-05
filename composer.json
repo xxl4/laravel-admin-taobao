@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Niceliizhi\\Taobao\\": "src/"
+            "Nicelizhi\\Taobao\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Niceliizhi\\Taobao\\TaobaoServiceProvider"
+                "Nicelizhi\\Taobao\\TaobaoServiceProvider"
             ]
         }
     }
