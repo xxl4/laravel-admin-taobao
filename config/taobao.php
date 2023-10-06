@@ -1,12 +1,14 @@
 <?php
 return [
 
+
     //taobao
     
 
 
     //tmall
 
+    //database
     'database' => [
         "connection" => "",
         "categories_table" => "taobao_categories",
