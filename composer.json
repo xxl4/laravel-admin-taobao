@@ -23,6 +23,21 @@
             "Nicelizhi\\Taobao\\": "src/"
         }
     },
+    "classmap": [
+        "src/Libs/Taobao/TopSdk.php",
+        "src/Libs/Taobao/TopSdk.php",
+        "src/Libs/Taobao/top/TopClient.php",
+        "src/Libs/Taobao/top/ResultSet.php",
+        "src/Libs/Taobao/top/RequestCheckUtil.php",
+        "src/Libs/Taobao/top/ClusterTopClient.php",
+        "src/Libs/Taobao/top/ApplicationVar.php",
+        "src/Libs/Taobao/top/SpiUtils.php",
+        "src/Libs/Taobao/top/TopLogger.php",
+        "src/Libs/Taobao/top/request",
+        "src/Libs/Taobao/Autoloader.php",
+        "src/Libs/Taobao/QimenCloud/top",
+        "src/Libs/Taobao/QimenCloud/QimenCloudClient.php"
+    ],
     "extra": {
         "laravel": {
             "providers": [
