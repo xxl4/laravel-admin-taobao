@@ -6,14 +6,13 @@ use Illuminate\Support\ServiceProvider;
 
 class TaobaoServiceProvider extends ServiceProvider
 {
-
     /**
      * @var array
      */
     protected $commands = [
-        Console\InstallCommand::class,
-        Console\PublishCommand::class,
-        Console\UninstallCommand::class,
+        Console\InstallCommand::class, // install
+        Console\PublishCommand::class, // publish
+        Console\UninstallCommand::class, // uninstall
     ];
 
     /**
